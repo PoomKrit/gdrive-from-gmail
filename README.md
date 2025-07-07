@@ -1,5 +1,5 @@
 # gdrive-from-gmail
-นี่เป็นที่ที่ผมเอาโค้ด Google Script มาวางไว้ ใช้สำหรับดึงไฟล์แนบจาก Gmail ไปเก็บใน Google Drive อัตโนมัติครับ
+นี่เป็นโค้ด Google Script ที่ใช้สำหรับดึงไฟล์แนบจาก Gmail ไปเก็บใน Google Drive อัตโนมัติครับ
 โค้ดต้นฉบับเอามาจาก https://github.com/ahochsteger/gmail2gdrive ขอบคุณเจ้าของโค้ดด้วยครับ :)
 
 ## วิธีการใช้งาน (How to Use)
