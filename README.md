@@ -1,3 +1,4 @@
 # gdrive-from-gmail
 This is a place I put code of Google script that pulling attached files from Gmail to Google Drive automatically. <br/>
-Actually, This is not something I did it myself. I got these codes from someone long time ago. Thanks to a person who made this :)
+The origin code is from https://github.com/ahochsteger/gmail2gdrive. Thanks for your contribution :)
+
