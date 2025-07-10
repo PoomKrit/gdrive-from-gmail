@@ -287,4 +287,4 @@ function processThreadToPdf(thread, rule, config) {
   }
 
   return pdf;
-
+}
